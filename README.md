@@ -50,27 +50,22 @@ Analysis: Answered four key business questions using interactive visuals and dat
 
 📌 Observations
 
-Total demand peaked in 2017 but showed a sharp drop in 2018.
-
-Total US, West, and South Central were the top regions in terms of avocado demand.
-
-There is a significant demand difference between conventional and organic avocados.
-
-Demand tends to drop as the average price increases, and vice versa.
+* Peak demand occurred in 2017; demand dropped significantly in 2018
+* Total US, West, and South Central showed consistently high demand
+* Conventional avocados vastly outsold organic types
+* Sales volume tends to decrease as average price increases
 
 📌 Key Insights
 
-Macro Trend: A growth trend from 2015–2017, followed by a sharp drop in 2018 (likely data inconsistency or market shift).
-
-Top Region in 2018: Total US had the highest demand.
-
-Conventional vs Organic: Conventional avocados dominate the market significantly.
-
-Price vs Demand: Inverse relationship between price and quantity demanded.
+* Macro Trend: Steady growth from 2015–2017, followed by a sharp dip in 2018 (likely due to data incompleteness or market adjustment)
+* Top Region (2018): Total US recorded the highest sales
+* Conventional vs Organic: Conventional avocados dominate demand
+* Price Sensitivity: An inverse relationship exists between price and demand
 
 📌 Conclusion
 
-The analysis highlights consumer preference for affordable and conventional avocados. Regional differences in demand provide an opportunity to tailor distribution strategies.
+The analysis reveals strong consumer preference for conventional and affordable avocados. Regional demand disparities point to opportunities for more targeted product distribution and pricing adjustments.
+
 
 📌 Recommendations
 
